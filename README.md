@@ -13,6 +13,9 @@ This repo contains my Projects and that i have build during my Data Engineering 
 
 ___
 
+
+**Note:** - Once you cloned this repo feel free to remove the below text, this is just for you to get started.
+
 ##### See Project Readme Best Practices Build
 [Sample Readme](https://github.com/InsightByte/DE-Prep/tree/main/Projects/Beginner/Project-Sample) 
 ___
