@@ -26,6 +26,7 @@ Project Name
 README.md
 ```
 
+#### What each folder should hold
 - **Project Name** -  Name of the project
 - **asstes** - images, media, extra documentation.
 - **data** - The folder consists of data used for testing.
