@@ -1,6 +1,6 @@
 
 
-## 1. My Data Engineering Portfolio
+## My Data Engineering Portfolio:
 
 
 
@@ -9,11 +9,14 @@ This repo contains my Projects and that i have build during my Data Engineering 
 
 | Project Name   | DE Stage   | Link to Project   | Project Start Date | Project End Date | Total Time Spent |
 | ------------- |:-----------:| ---- |---| ---|---|
-| Read Data      | Beginner | [Link](https://github.com/InsightByte/DE-Prep/tree/main/Projects/Beginner/Project-Sample) | 01-01-2022 | - | 22 hours|
+| Read Data      | Beginner | [Link](https://github.com/InsightByte/DE-Prep/tree/main/Projects/Beginner/Project-Sample) | 2022-01-01 | - | 22 hours|
 
+___
 
-
-### 1.1. Project structure 
+##### See Project Readme Best Practices Build
+[Sample Readme](https://github.com/InsightByte/DE-Prep/tree/main/Projects/Beginner/Project-Sample) 
+___
+##### Project structure 
 
 ```
 Project Name
@@ -28,7 +31,9 @@ Project Name
 README.md
 ```
 
-####  What each folder should hold
+___
+
+######  What each folder should hold
 - **Project Name** -  Name of the project
 - **asstes** - images, media, extra documentation.
 - **data** - The folder consists of data used for testing.
