@@ -1,4 +1,8 @@
-#### My Data Engineering Portfolio
+
+
+## 1. My Data Engineering Portfolio
+
+
 
 This repo contains my Projects and that i have build during my Data Engineering Journey 
 
@@ -9,9 +13,7 @@ This repo contains my Projects and that i have build during my Data Engineering 
 
 
 
-
-
-### Project structure 
+### 1.1. Project structure 
 
 ```
 Project Name
@@ -26,7 +28,7 @@ Project Name
 README.md
 ```
 
-#### What each folder should hold
+####  What each folder should hold
 - **Project Name** -  Name of the project
 - **asstes** - images, media, extra documentation.
 - **data** - The folder consists of data used for testing.
@@ -36,3 +38,6 @@ README.md
 - **src** - The folder consists of source code related to data gathering, data preparation, sql code, python etc
      `Note: - you might need to add sub-directories to better group your code.`
 - **tests** - The folder consists of the code representing unit tests for code maintained with src folder.
+
+
+
